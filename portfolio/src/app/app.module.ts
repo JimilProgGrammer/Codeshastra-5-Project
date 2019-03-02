@@ -11,6 +11,8 @@ import { CompanySignupComponent } from './company-signup/company-signup.componen
 import { ApiCallerService } from './api-caller.service';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './home/home.component';
+import { ProfileComponent } from './profile/profile.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { HomeComponent } from './home/home.component';
     SignupComponent,
     IndividualSignupComponent,
     CompanySignupComponent,
-    HomeComponent
+    HomeComponent,
+    ProfileComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
