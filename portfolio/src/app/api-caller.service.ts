@@ -17,9 +17,8 @@ export class ApiCallerService {
     return this.http.get(url).pipe(map(res => res));
   }
 
-  makePostRequest(url: string) : Observable<any> {
+  makePostRequest(url: string, postBody: any) : Observable<any> {
     url = this.baseUrl + url;
-    var postBody = {};
     return this.http.post(url, postBody).pipe(map(res => res));
   }
 
