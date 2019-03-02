@@ -1,3 +1,65 @@
-<p>
-  individual-signup works!
-</p>
+<form #indiSignUp="ngForm" id="indiSignUp" class="indiSignUp" ngNativeValidate>
+  <!-- PERSONAL DETAILS -->
+  <label for="Personal Details">Personal Details: </label>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="userFirstName">First Name:</label>
+      <input type="text" class="form-control" id="fname" name="fname" placeholder="Your First Name" [(ngModel)]="fname" required>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="userLastName">Last Name:</label>
+      <input type="text" class="form-control" id="lname" name="lname" placeholder="Your Last Name" [(ngModel)]="lname" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-4">
+      <label for="userFirstName">Contact No: </label>
+      <input type="number" class="form-control" id="contact" name="contact" [(ngModel)]="contact" required>
+    </div>
+    <div class="form-group col-md-4">
+      <label for="userDob">Date of Birth:</label>
+      <input type="date" class="form-control" id="dob" name="dob" [(ngModel)]="dob" required>
+    </div>
+    <div class="form-group col-md-4">
+      <label for="userAge">Age: </label>
+      <input type="number" class="form-control" id="age" name="age" [(ngModel)]="age" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-12">
+      <label for="userEmail">Email ID: </label>
+      <input type="email" class="form-control" id="email" name="email" placeholder="Your Email ID" [(ngModel)]="email" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="userPwd">Password: </label>
+      <input type="password" class="form-control" id="pwd" name="pwd" [(ngModel)]="pwd" required>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="confirmPwd">Confirm Password: </label>
+      <input type="password" class="form-control" id="confirmPwd" name="confirmPwd" [(ngModel)]="confirmPwd" required>
+    </div>
+  </div>
+  <!-- BANK DETAILS -->
+  <div class="form-row">
+    <label for="bankDetailsSection">Bank Details: </label>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="userPan">PAN Card No.: </label>
+      <input type="text" class="form-control" id="pan" name="pan" [(ngModel)]="pan" required>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="userAccNo">Account No.: </label>
+      <input type="number" class="form-control" id="accNo" name="accNo" [(ngModel)]="accNo" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-12">
+      <label for="userBankName">Bank Name: </label>
+      <input type="text" class="form-control" id="bankName" name="bankName" [(ngModel)]="bankName" required>
+    </div>
+  </div>
+  <button type="submit" class="btn btn-primary" (click)="signUp()">Sign Up</button>
+</form>
