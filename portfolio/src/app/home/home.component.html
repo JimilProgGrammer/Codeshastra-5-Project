@@ -13,20 +13,20 @@
         <div class="centered">
           <h1>SIGN IN</h1>
         </div>
-          <form class="formStyle">
+          <form class="formStyle" ngNativeValidate>
               <div class="form-group">
                 <label for="exampleInputEmail1">Email address:</label>
                 <div class="shadow bg-white rounded">
-                <input type="email" [(ngModel)]="emailId" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                <input type="email" id="emailId" name="emailId" [(ngModel)]="emailId" class="form-control" aria-describedby="emailHelp" placeholder="Enter email" required>
               </div>
               </div>
               <div class="form-group">
                 <label for="exampleInputPassword1">Password:</label>
                 <div class="shadow bg-white rounded">
-                <input type="password" [(ngModel)]="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                <input type="password" id="password" name="password" [(ngModel)]="password" class="form-control" placeholder="Password" required>
               </div>
               </div>
-                <button type="submit" class="btn btn-primary" (click)="signIn()">Submit</button>&nbsp;&nbsp;&nbsp;
+                <button type="submit" class="btn btn-primary" (click)="login()">Submit</button>&nbsp;&nbsp;&nbsp;
                 <button type="submit" class="btn btn-primary">Sign Up</button>
             </form>
         

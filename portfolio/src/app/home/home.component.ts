@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiCallerService } from '../api-caller.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
@@ -13,7 +14,7 @@ export class HomeComponent implements OnInit {
   password: string;
   postbody: any;
 
-  constructor(private apiCallerService: ApiCallerService) { }
+  constructor(private apiCallerService: ApiCallerService, private router: Router) { }
  
   ngOnInit() {
   }
@@ -27,6 +28,7 @@ export class HomeComponent implements OnInit {
       res => {
         if(res.error == null) {
           console.log(res.data);
+          this.router.navigate(['/profile',this.emailId]);
         } else {
           console.log(res.error);
         }

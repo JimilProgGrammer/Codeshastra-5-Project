@@ -1,5 +1,6 @@
 import { ApiCallerService } from './../api-caller.service';
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-company-signup',
@@ -20,7 +21,7 @@ export class CompanySignupComponent implements OnInit {
   accNo: number;
   bankName: string;
 
-  constructor(private apiCallerService: ApiCallerService) { }
+  constructor(private apiCallerService: ApiCallerService, private router: Router) { }
 
   ngOnInit() {
   }
@@ -40,6 +41,7 @@ export class CompanySignupComponent implements OnInit {
       res => {
         if(res.error == null) {
           console.log("User Signed Up Successfully");
+          this.router.navigate(['/profile', this.compemail]);
         } else {
           console.log(res.error);
         }
