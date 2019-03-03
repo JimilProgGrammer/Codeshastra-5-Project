@@ -9,12 +9,12 @@ import { Observable } from 'rxjs';
 export class ApiCallerService {
 
   private baseUrl = "/portfolio/api";
-  private flaskBaseUrl = "/flask";
+  private flaskBaseUrl = "";
 
   constructor(private http: HttpClient) { }
 
   makeFlaskGetRequest(url: string): Observable<any> {
-    url = this.flaskBaseUrl + url;
+    url = "http://127.0.0.1:5000/flask" + url;
     return this.http.get(url).pipe(map(res => res));
   }
 

@@ -14,22 +14,25 @@ export class PieChartComponent implements OnInit {
 
   symbol: string;
   value: number;
-  public pieChartLabels:string[];
-  public pieChartData:number[];
+  public pieChartLabels:string[] = ['TCS','RELIANCE','WIPRO','DRREDDY'];
+  public pieChartData:number[] = [30, 20, 20, 30];
   public pieChartType:string = 'pie';
 
   constructor(private apiCallerService: ApiCallerService) { }
 
   ngOnInit() {
-    this.apiCallerService.makeFlaskGetRequest("/get_chart_data/"+this.emailId).subscribe(
-      res => {
-        if(res.data != null) {
-           console.log(res.data);
-           this.pieChartLabels = res.data.symbol;
-           this.pieChartData = res.data.value; 
-        }
-      }
-    );
+    console.log("Calling API");
+    console.log("At Pie Chart: Email ID = " + this.emailId);
+    // this.apiCallerService.makeFlaskGetRequest("/get_chart_data/"+this.emailId).subscribe(
+    //   res => {
+    //     console.log(res);
+    //     if(res.data != null) {
+    //        console.log(res.data);
+    //        this.pieChartLabels = res.data.symbol;
+    //        this.pieChartData = res.data.value; 
+    //     }
+    //   }
+    // );
   };
 
 

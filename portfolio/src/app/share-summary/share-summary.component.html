@@ -1,4 +1,3 @@
-<p>SHARE SUMMARY:</p>
 <div class="card bg-light mb-3">
   <div class="card">
       <table class="table table-striped">
@@ -6,15 +5,16 @@
             <tr>
               <th scope="col">Symbol</th>
               <th scope="col">Cost Price</th>
-              <th scope="col">Original Price</th>
+              <th scope="col">Original Quantity</th>
               <th scope="col">Current Price</th>
               <th scope="col">Cureent Quantity</th>
-              <th scope="col">Total Investment</th>
+              <th scope="col">Investment</th>
+              <th scope="col">Valuation</th>
               <th scope="col">Profit/Loss</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
+            <!-- <tr>
               <th scope="row">1</th>
               <td>data</td>
               <td>loves</td>
@@ -23,6 +23,16 @@
               <td>but</td>
               <td>I definitely</td>
               <td>do</td>
+            </tr> -->
+            <tr *ngFor="let record of portfolioRecords; let i = index">
+              <td>{{record.symbol}}</td>
+              <td>{{record.cost_price}}</td>
+              <td>{{record.original_qty}}</td>
+              <td>{{record.current_price}}</td>
+              <td>{{record.current_qty}}</td>
+              <td>{{record.cost_price * record.current_qty}}</td>
+              <td>{{record.current_price * record.current_qty}}</td>
+              <td>{{record.cost_price * record.current_qty - record.current_price * record.current_qty}}</td>
             </tr>
           </tbody>
         </table>

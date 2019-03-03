@@ -1,26 +1,26 @@
 <br/>
 <div class="container-fluid">
-<div class="card bg-light shadow p-3 mb-5 bg-white rounded">
-<div class="card">
+  <div class="card bg-light shadow p-3 mb-5 bg-white rounded">
+    <h2>Personal Details: </h2>
     <div class="row">
       <div class="col-sm-4">
         <div class="card-body">
           <h5 class="card-title">Name:</h5>
-          <p class="card-text">{{name}}</p>        
+          <h6 class="card-text">{{name}}</h6>        
         </div>
       </div>
 
       <div class="col-sm-4">
           <div class="card-body">
             <h5 class="card-title">Total Investment:</h5>
-            <p class="card-text">{{total_investment}}</p>
+            <h6 class="card-text">{{total_investment}}</h6>
           </div>
         </div>
 
         <div class="col-sm-4">
             <div class="card-body">
               <h5 class="card-title">max_gainer:</h5>
-              <p class="card-text">{{max_gainer_symbol}} ({{max_gainer_amt}})</p>
+              <h6 class="card-text">{{max_gainer_symbol}} ({{max_gainer_amt}})</h6>
             </div>
           </div>
     </div>
@@ -28,32 +28,38 @@
         <div class="col-sm-4">
           <div class="card-body">
             <h5 class="card-title">Email Id:</h5>
-            <p class="card-text">{{emailId}}</p>
+            <h6 class="card-text">{{emailId}}</h6>
           </div>
         </div>
   
         <div class="col-sm-4">
             <div class="card-body">
               <h5 class="card-title">Unrealized Difference: </h5>
-              <p class="card-text">{{unrealised_difference}}</p><br/>
+              <h6 class="card-text">{{unrealised_difference}}</h6><br/>
               <h5 class="card-title">Balance: </h5>
-              <p class="card-text">{{balance}}</p><br/>
+              <h6 class="card-text">{{balance}}</h6><br/>
             </div>
           </div>
   
           <div class="col-sm-4">
               <div class="card-body">
                 <h5 class="card-title">max_loser:</h5>
-                <p class="card-text">{{max_loser_symbol}} ({{max_loser_amt}})</p>
+                <h6 class="card-text">{{max_loser_symbol}} ({{max_loser_amt}})</h6>
               </div>
             </div>
       </div>
-    </div>
   </div>
-  <app-share-summary></app-share-summary>
-<p>GRAPH:</p>
+  <br/>
+  <div class="card bg-light mb-3">
+    <br/>
+    <h2>Share Summary:</h2>
+    <app-share-summary [emailId]="emailId"></app-share-summary>
+  </div>
 <div class="card bg-light mb-3">
-  <div class="card">
+  <br/>
+  <h2>Your Investments:</h2>
+  <div class="box" style="width: 500px; height: 400px;">
     <app-pie-chart [emailId]="emailId"></app-pie-chart>
   </div>
-</div>
+  </div>
+  </div>
