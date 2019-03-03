@@ -20,6 +20,9 @@ export class CompanySignupComponent implements OnInit {
   pan: string;
   accNo: number;
   bankName: string;
+  riskFactor: number;
+  returnFactor: number;
+  budget: number;
 
   constructor(private apiCallerService: ApiCallerService, private router: Router) { }
 
@@ -35,7 +38,10 @@ export class CompanySignupComponent implements OnInit {
       "confirm_password": this.confirmPwd,
       "pan_card": this.pan,
       "acc_no": this.accNo,
-      "bank_name": this.bankName
+      "bank_name": this.bankName,
+      "risk_factor": this.riskFactor,
+      "target_return": this.returnFactor,
+      "budget": this.budget
     }
     this.apiCallerService.makePostRequest("/user/company_signup", this.postBody).subscribe(
       res => {

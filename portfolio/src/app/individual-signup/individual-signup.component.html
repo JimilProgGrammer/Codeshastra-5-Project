@@ -61,5 +61,25 @@
       <input type="text" class="form-control" id="bankName" name="bankName" [(ngModel)]="bankName" required>
     </div>
   </div>
+  <!-- Preferences Section -->
+  <div class="form-row">
+    <label for="preferences">Your Preferences:</label>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="riskFactor">Risk Factor: </label>
+      <input type="number" class="form-control" id="riskFactor" name="riskFactor" [(ngModel)]="riskFactor" required>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="returnFactor">Return Factor: </label>
+      <input type="number" class="form-control" id="returnFactor" name="returnFactor" [(ngModel)]="returnFactor" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="budget">Budget: </label>
+      <input type="number" class="form-control" id="budget" name="budget" [(ngModel)]="budget" required>      
+    </div>
+  </div>
   <button type="submit" class="btn btn-primary" (click)="signUp()">Sign Up</button>
 </form>

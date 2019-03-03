@@ -22,6 +22,9 @@ export class IndividualSignupComponent implements OnInit {
   pan: string;
   accNo: string;
   bankName: string;
+  riskFactor: number;
+  budget: number;
+  returnFactor: number;
 
   constructor(private apiCallerService: ApiCallerService, private router: Router) { }
 
@@ -40,7 +43,10 @@ export class IndividualSignupComponent implements OnInit {
       "confirm_password": this.confirmPwd,
       "pan_card": this.pan,
       "acc_no": this.accNo,
-      "bank_name": this.bankName
+      "bank_name": this.bankName,
+      "risk_factor": this.riskFactor,
+      "target_return": this.returnFactor,
+      "budget": this.budget
     }
     this.apiCallerService.makePostRequest("/user/individual_signup", this.postBody).subscribe(
       res => {
