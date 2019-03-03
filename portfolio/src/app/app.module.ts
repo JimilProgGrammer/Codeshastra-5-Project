@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-
+import { ChartsModule } from 'ng2-charts';
 import { AppComponent } from './app.component';
 import { SignupComponent } from './signup/signup.component';
 import { IndividualSignupComponent } from './individual-signup/individual-signup.component';
@@ -14,6 +14,7 @@ import { HomeComponent } from './home/home.component';
 import { ProfileComponent } from './profile/profile.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ShareSummaryComponent } from './share-summary/share-summary.component';
+import { PieChartComponent } from './pie-chart/pie-chart.component';
 
 @NgModule({
   declarations: [
@@ -24,12 +25,14 @@ import { ShareSummaryComponent } from './share-summary/share-summary.component';
     HomeComponent,
     ProfileComponent,
     NavbarComponent,
-    ShareSummaryComponent
+    ShareSummaryComponent,
+    PieChartComponent
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
     HttpClientModule,
+    ChartsModule,
     AppRoutingModule,
     FormsModule,
     ReactiveFormsModule
