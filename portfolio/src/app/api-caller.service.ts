@@ -9,8 +9,14 @@ import { Observable } from 'rxjs';
 export class ApiCallerService {
 
   private baseUrl = "/portfolio/api";
+  private flaskBaseUrl = "/flask";
 
   constructor(private http: HttpClient) { }
+
+  makeFlaskGetRequest(url: string): Observable<any> {
+    url = this.flaskBaseUrl + url;
+    return this.http.get(url).pipe(map(res => res));
+  }
 
   makeGetRequest(url: string) : Observable<any> {
     url = this.baseUrl + url;
