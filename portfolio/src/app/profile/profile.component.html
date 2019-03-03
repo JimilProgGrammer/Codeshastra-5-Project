@@ -1,24 +1,26 @@
-<p>USER DETAILS:</p>
-<div class="card bg-light mb-3">
+<br/>
+<div class="container-fluid">
+<div class="card bg-light shadow p-3 mb-5 bg-white rounded">
 <div class="card">
     <div class="row">
       <div class="col-sm-4">
         <div class="card-body">
           <h5 class="card-title">Name:</h5>
-          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>        </div>
+          <p class="card-text">{{name}}</p>        
+        </div>
       </div>
 
       <div class="col-sm-4">
           <div class="card-body">
             <h5 class="card-title">Total Investment:</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">{{total_investment}}</p>
           </div>
         </div>
 
         <div class="col-sm-4">
             <div class="card-body">
               <h5 class="card-title">max_gainer:</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text">{{max_gainer_symbol}} ({{max_gainer_amt}})</p>
             </div>
           </div>
     </div>
@@ -26,21 +28,23 @@
         <div class="col-sm-4">
           <div class="card-body">
             <h5 class="card-title">Email Id:</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">{{emailId}}</p>
           </div>
         </div>
   
         <div class="col-sm-4">
             <div class="card-body">
-              <h5 class="card-title">Unrealized Profit:</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">Unrealized Difference: </h5>
+              <p class="card-text">{{unrealised_difference}}</p><br/>
+              <h5 class="card-title">Balance: </h5>
+              <p class="card-text">{{balance}}</p><br/>
             </div>
           </div>
   
           <div class="col-sm-4">
               <div class="card-body">
                 <h5 class="card-title">max_loser:</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">{{max_loser_symbol}} ({{max_loser_amt}})</p>
               </div>
             </div>
       </div>
