@@ -1,0 +1,19 @@
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Date</th>
+        <th scope="col">Symbol</th>
+        <th scope="col">Quantity</th>
+        <th scope="col">Price</th>
+        <th scope="col">Type</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr *ngFor="let record of portfolioRecords; let i = index">
+              <td>{{record.date}}</td>
+              <td>{{record.symbol}}</td>
+              <td>{{record.qty}}</td>
+              <td>{{record.price}}</td>
+              <td>{{record.type}}</td>
+    </tbody>
+  </table>

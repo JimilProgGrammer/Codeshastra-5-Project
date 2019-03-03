@@ -15,6 +15,8 @@ import { ProfileComponent } from './profile/profile.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ShareSummaryComponent } from './share-summary/share-summary.component';
 import { PieChartComponent } from './pie-chart/pie-chart.component';
+import { NotificationsComponent } from './notifications/notifications.component';
+import { TradebookComponent } from './tradebook/tradebook.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { PieChartComponent } from './pie-chart/pie-chart.component';
     ProfileComponent,
     NavbarComponent,
     ShareSummaryComponent,
-    PieChartComponent
+    PieChartComponent,
+    NotificationsComponent,
+    TradebookComponent
   ],
   imports: [
     BrowserModule,
