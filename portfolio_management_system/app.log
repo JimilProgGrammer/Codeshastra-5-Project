@@ -1,0 +1,938 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:14] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:14] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:14] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:14] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:15] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:15] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:15] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:51] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:51] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:51] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:52] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:52] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:52] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:41:52] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:42:13] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:43:12] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:44:50] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:45:57] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 00:46:50] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:26:14] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:32:12] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:33:19] "GET /max_gainer_loser HTTP/1.1" 500 -
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:33:41] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:34:37] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:37:00] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:38:41] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:flask.app:Exception on /max_gainer_loser [GET]
+Traceback (most recent call last):
+  File "D:\Python3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File ".\controller.py", line 29, in max_gainer_loser
+    return create_json(services.max_gainer_loser())
+  File "D:\CodeShastra\portfolio_management_system\services.py", line 32, in max_gainer_loser
+    original_investment += status_updates["original_price"] * status_updates["original_qty"]
+KeyError: 'original_price'
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:43:39] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:56] "GET /max_gainer_loser HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:56] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:57] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:57] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:57] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:57] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 01:44:57] "GET /max_gainer_loser?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 02:03:20] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:36:04] "GET /get_chart_data HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:36:20] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:40:04] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:40:19] "GET /get_chart_data/manandoshi1607@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:46:24] "GET /get_chart_data/manandoshi1607@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:47:21] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:34] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:34] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:34] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:34] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:35] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:35] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:56:35] "GET /get_chart_data/shahjimil35@gmail.com?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:57:17] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:11] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:14] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:16] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:17] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:17] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:17] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:21] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:58:30] "GET /get_chart_data/manandoshi1607@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:59:23] "GET /get_chart_data/manandoshi1607@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 03:59:31] "GET /get_chart_data/shahjimil35@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 04:07:43] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 06:37:45] "GET /max_gainer_loser HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:32:46] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:34:06] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:34:51] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:35:32] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:19] "GET /run_stochastic HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:36:20] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:41:07] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:43:15] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:46:22] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:48:50] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:17] "GET /run_stochastic HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:52:18] "GET /run_stochastic?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\services.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:53:25] "GET /run_stochastic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 07:55:46] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:33] "GET /optimize HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:33] "GET /optimize?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:33] "GET /optimize?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:33] "GET /optimize?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:33] "GET /optimize?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:34] "GET /optimize?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:13:34] "GET /optimize?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:17:30] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:39:09] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 09:55:51] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 10:00:54] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 10:03:27] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 10:04:42] "GET /optimize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\CodeShastra\\portfolio_management_system\\optimize_portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 159-750-207
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2019 10:28:26] "GET /optimize HTTP/1.1" 200 -
