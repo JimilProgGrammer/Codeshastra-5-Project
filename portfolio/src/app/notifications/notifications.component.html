@@ -1,48 +1,33 @@
-<div class="container-fluid">
-    <div class="card bg-light shadow p-3 mb-5 bg-white rounded">
-      <h2>Notifications: </h2>
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Symbol:</h5>
-            <h6 class="card-text">{{symbol}}</h6>        
-          </div>
-        </div>
-  
-        <div class="col-sm-6">
-            <div class="card-body">
-              <h5 class="card-title">Signal:</h5>
-              <h6 class="card-text">{{signal}}</h6>
-            </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Quantity:</h5>
-            <h6 class="card-text">{{quantity}}</h6>        
-          </div>
-        </div>
-  
-        <div class="col-sm-6">
-            <div class="card-body">
-              <h5 class="card-title">Current Price:</h5>
-              <h6 class="card-text">{{currentPrice}}</h6>
-            </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="card-body">
-            <button type="Submit" class="btn btn-primary">Accept</button>      
-          </div>
-        </div>
-  
-        <div class="col-sm-6">
-            <div class="card-body">
-                <button type="Submit" class="btn btn-primary">Deny</button>
-            </div>
-        </div>
-      </div>
+<div class="card bg-light shadow p-3 mb-5 white rounded">
+  <div class="row">
+    <div class="col-md-6">
+      <p>Date: {{records.date}}</p><br/>
+      <h3>Balance: {{records.balance}}</h3>
+      <h3>Total Value: {{records.total_value}}</h3>
+    </div>
+    <div class="col-md-6">
+      <h3>Long Only Max Sharpe Trading Strategy: </h3>
+      <p>Annual Return: {{records.long_only_max_sharpe.annual_return}}</p><br/>
+      <p>Volatility: {{records.long_only_max_sharpe.volatility}}</p><br/>
+      <p>Sharpe Ratio: {{records.long_only_max_sharpe.sharpe_ratio}}</p>
+    </div>
+  </div>
+</div>
+<div class="card bg-light shadow p-3 mb-5 white rounded" *ngFor="let record of portfolioRecords">
+  <div class="row">
+    <div class="col-sm-6 col-md-6">
+      <p>Symbol: {{record.symbol}}</p><br/><br/>
+      <p>Quantity: {{record.qty}}</p>
+    </div>
+    <div class="col-sm-6 col-md-6">
+      <p>Amount: {{record.amount}}</p><br/><br/>
+      <p>Current Price: Rs.{{record.current_price}}</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6 col-md-6">
+      <button type="button" class="btn btn-primary" (click)="accept()">Accept</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <button type="button" class="btn btn-primary" (click)="deny()">Deny</button>
+    </div>
+  </div>
+</div>

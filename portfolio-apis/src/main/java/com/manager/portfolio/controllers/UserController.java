@@ -1,6 +1,7 @@
 package com.manager.portfolio.controllers;
 
 import com.manager.portfolio.dto.BaseResponseDto;
+import com.manager.portfolio.dto.LoginRequestDto;
 import com.manager.portfolio.dto.UserDto;
 import com.manager.portfolio.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,13 +22,17 @@ public class UserController {
         BaseResponseDto baseResponseDto = new BaseResponseDto();
         try {
             if(userDto != null) {
-                userDto.setType("individual");
-                System.out.println("User Doc = " + userDto.toDocument());
-                boolean result = userService.addUser(userDto.toDocument());
-                if(result) {
-                    baseResponseDto.setData("Success");
+                if(!userDto.getPassword().equals(userDto.getConfirmPwd())) {
+                    baseResponseDto.setError("Passwords Do Not Match!");
                 } else {
-                    baseResponseDto.setError("User Already Exists!");
+                    userDto.setType("individual");
+                    System.out.println("User Doc = " + userDto.toDocument());
+                    boolean result = userService.addUser(userDto.toDocument());
+                    if (result) {
+                        baseResponseDto.setData("Success");
+                    } else {
+                        baseResponseDto.setError("User Already Exists!");
+                    }
                 }
             }
         } catch (Exception e) {
@@ -41,13 +46,34 @@ public class UserController {
         BaseResponseDto baseResponseDto = new BaseResponseDto();
         try {
             if(userDto != null) {
-                userDto.setType("company");
-                System.out.println("User Doc = " + userDto.toDocument());
-                boolean result = userService.addUser(userDto.toDocument());
-                if(result) {
+                if(!userDto.getPassword().equals(userDto.getConfirmPwd())) {
+                    baseResponseDto.setError("Passwords Do Not Match!");
+                }else {
+                    userDto.setType("company");
+                    System.out.println("User Doc = " + userDto.toDocument());
+                    boolean result = userService.addUser(userDto.toDocument());
+                    if (result) {
+                        baseResponseDto.setData("Success");
+                    } else {
+                        baseResponseDto.setError("User Already Exists!");
+                    }
+                }
+            }
+        } catch(Exception e) {
+            baseResponseDto.setError(e);
+        }
+        return baseResponseDto;
+    }
+
+    @RequestMapping(value = "/login", method = RequestMethod.POST)
+    public BaseResponseDto login(@RequestBody LoginRequestDto loginRequestDto) {
+        BaseResponseDto baseResponseDto = new BaseResponseDto();
+        try {
+            if(loginRequestDto != null) {
+                if(userService.validateLogin(loginRequestDto.toDocument())) {
                     baseResponseDto.setData("Success");
                 } else {
-                    baseResponseDto.setError("User Already Exists!");
+                    baseResponseDto.setError("Username and Password do not match!");
                 }
             }
         } catch(Exception e) {

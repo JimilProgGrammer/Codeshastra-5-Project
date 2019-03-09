@@ -57,6 +57,18 @@ public class UserDto {
     @JsonProperty(value = "type")
     private String type;
 
+    @NotNull
+    @JsonProperty(value = "risk_factor")
+    private int riskFactor;
+
+    @NotNull
+    @JsonProperty(value = "target_return")
+    private int returnFactor;
+
+    @NotNull
+    @JsonProperty(value = "budget")
+    private long budget;
+
     public String getFname() {
         return fname;
     }
@@ -159,6 +171,30 @@ public class UserDto {
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public int getRiskFactor() {
+        return riskFactor;
+    }
+
+    public void setRiskFactor(int riskFactor) {
+        this.riskFactor = riskFactor;
+    }
+
+    public int getReturnFactor() {
+        return returnFactor;
+    }
+
+    public void setReturnFactor(int returnFactor) {
+        this.returnFactor = returnFactor;
+    }
+
+    public long getBudget() {
+        return budget;
+    }
+
+    public void setBudget(long budget) {
+        this.budget = budget;
     }
 
     /**

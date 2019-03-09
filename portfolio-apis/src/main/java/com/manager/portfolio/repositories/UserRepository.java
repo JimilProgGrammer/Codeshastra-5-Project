@@ -17,4 +17,8 @@ public class UserRepository extends MongoImpl {
         return super.insertIfNotExist(CollectionConstants.USERS, "email_id", insertList);
     }
 
+    public Document getUserDoc(Document queryDoc) throws Exception {
+        return super.findOneRecord(CollectionConstants.USERS, queryDoc);
+    }
+
 }

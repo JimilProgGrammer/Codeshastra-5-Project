@@ -23,4 +23,19 @@ public class UserService {
         return false;
     }
 
+    public boolean validateLogin(Document userDoc) throws Exception {
+        try {
+            Document queryDoc = new Document("email_id", userDoc.getString("email_id"));
+            Document returnedDoc = userRepository.getUserDoc(queryDoc);
+            if(returnedDoc != null) {
+                if(returnedDoc.getString("password").equals(userDoc.getString("password"))) {
+                    return true;
+                }
+            }
+        } catch (Exception e) {
+            throw new Exception(e);
+        }
+        return false;
+    }
+
 }

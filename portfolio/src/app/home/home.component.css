@@ -4,11 +4,11 @@ body {
   }
   
   .split {
-    height: 100%;
+    height: 90%;
     width: 50%;
     position: fixed;
     z-index: 1;
-    top: 0;
+    top: 30px;
     overflow-x: hidden;
     padding-top: 20px;
   }
